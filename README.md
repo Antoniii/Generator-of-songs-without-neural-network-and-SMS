@@ -5,6 +5,8 @@
 Stan Winston
 ---
 
+![](https://raw.githubusercontent.com/Antoniii/Generator-of-songs-without-neural-network-and-SMS/master/cyberpunk.jpg)
+
 ## Примеры генерации с использованием нейросетей:
 > Ели мясо мужики, пивом запивали!
 > О чем конюх говорил, они не понимали!

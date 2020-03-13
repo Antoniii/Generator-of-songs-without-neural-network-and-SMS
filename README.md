@@ -3,7 +3,7 @@
 > Если у вас нет таланта, не расчитывайте, что это восполнит компьютер.
 > Компьютер не умеет ничего - это не более, чем инструмент.
 Stan Winston
----
+
 
 ![](https://raw.githubusercontent.com/Antoniii/Generator-of-songs-without-neural-network-and-SMS/master/cyberpunk.jpg)
 
@@ -29,3 +29,4 @@ Stan Winston
 * [Нейронная оборона](https://music.yandex.ru/users/meduza.io/playlists/1016?from=iframe)
 * [КиШ - YELLOW SUBMARINE](https://youtu.be/rsnPHPZT3kU)
 * [Как скачать и установить Python 3 на Windows 10/7](https://pythonru.com/baza-znanij/skachat-i-ustanovit-python-3-na-windows-10-7)
+* [Песня в стиле группы Кино НЕ за 5 минут | Виктор Цой](https://youtu.be/CbaPmeUu3nE)
